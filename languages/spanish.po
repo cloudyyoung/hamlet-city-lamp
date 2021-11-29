@@ -1,0 +1,184 @@
+#: STRINGS.NAMES.CITY_LAMP
+msgctxt "STRINGS.NAMES.CITY_LAMP"
+msgid "Lamp Post"
+msgstr "Farola"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.CITY_LAMP.GENERIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CITY_LAMP.GENERIC"
+msgid "Plain fire. No science involved."
+msgstr "Fuego, simple y llano. Sin ciencia alguna."
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.CITY_LAMP.ON
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CITY_LAMP.ON"
+msgid "Lusterless."
+msgstr "Sin brillo ninguno."
+
+#: STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.CITY_LAMP.GENERIC
+msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.CITY_LAMP.GENERIC"
+msgid "How wonderful! Does it run on direct current or alternating current?"
+msgstr "¡Qué maravilla! ¿Funciona con corriente alterna o continua?"
+
+#: STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.CITY_LAMP.ON
+msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.CITY_LAMP.ON"
+msgid "Presumably they've turned it off to conserve the bulb."
+msgstr "Habrán apagado para conservar la bombilla."
+
+#: STRINGS.CHARACTERS.WALANI.DESCRIBE.CITY_LAMP.GENERIC
+msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.CITY_LAMP.GENERIC"
+msgid "Thanks for keeping me safe, light!"
+msgstr "¡Gracias por salvarme el pellejo, luz!"
+
+#: STRINGS.CHARACTERS.WALANI.DESCRIBE.CITY_LAMP.ON
+msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.CITY_LAMP.ON"
+msgid "Pretty sure that's a lamp."
+msgstr "Fijo que es una lámpara."
+
+#: STRINGS.CHARACTERS.WARBUCKS.DESCRIBE.CITY_LAMP.GENERIC
+msgctxt "STRINGS.CHARACTERS.WARBUCKS.DESCRIBE.CITY_LAMP.GENERIC"
+msgid "What an intriguing civilization!"
+msgstr "¡Qué civilización más interesante!"
+
+#: STRINGS.CHARACTERS.WARBUCKS.DESCRIBE.CITY_LAMP.ON
+msgctxt "STRINGS.CHARACTERS.WARBUCKS.DESCRIBE.CITY_LAMP.ON"
+msgid "No need for light in the daytime, I suppose."
+msgstr "Supongo que no me hace falta una luz en pleno día."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.CITY_LAMP.GENERIC
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CITY_LAMP.GENERIC"
+msgid "It's a small comfort."
+msgstr "Es un pequeño confort."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.CITY_LAMP.ON
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CITY_LAMP.ON"
+msgid "What a quaint street lamp."
+msgstr "Una farola bastante pintoresca."
+
+#: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CITY_LAMP.GENERIC
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CITY_LAMP.GENERIC"
+msgid "It shines bright this night."
+msgstr "Brilla con fuerza en esta noche."
+
+#: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CITY_LAMP.ON
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CITY_LAMP.ON"
+msgid "Nary a glimmer."
+msgstr "Apenas un resplandor."
+
+#: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CITY_LAMP.GENERIC
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CITY_LAMP.GENERIC"
+msgid "A welcome sign of civilization."
+msgstr "Un agradable signo de civilización."
+
+#: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CITY_LAMP.ON
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CITY_LAMP.ON"
+msgid "It eases my mind."
+msgstr "Me relaja mentalmente."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CITY_LAMP.GENERIC
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CITY_LAMP.GENERIC"
+msgid "They don't turn off when I get close!"
+msgstr "¡No se apagan al acercarnos!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CITY_LAMP.ON
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CITY_LAMP.ON"
+msgid "I miss street lamps."
+msgstr "Echo de menos las farolas."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.CITY_LAMP.GENERIC
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CITY_LAMP.GENERIC"
+msgid "It cannot ward off the darkness forever."
+msgstr "No puede mantener la oscuridad a raya eternamente."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.CITY_LAMP.ON
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CITY_LAMP.ON"
+msgid "A place to hold light."
+msgstr "Un lugar para contener luz."
+
+#: STRINGS.CHARACTERS.WHEELER.DESCRIBE.CITY_LAMP.GENERIC
+msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.CITY_LAMP.GENERIC"
+msgid "A free light source. I'll take it."
+msgstr "Una fuente de luz gratis. Me la llevo."
+
+#: STRINGS.CHARACTERS.WHEELER.DESCRIBE.CITY_LAMP.ON
+msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.CITY_LAMP.ON"
+msgid "Not much to look at now, but wait'll nighttime."
+msgstr "Ahora no es gran cosa, pero verás por la noche."
+
+#: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CITY_LAMP.GENERIC
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CITY_LAMP.GENERIC"
+msgid "Quite radiant."
+msgstr "De lo más radiante."
+
+#: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CITY_LAMP.ON
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CITY_LAMP.ON"
+msgid "A dormant street lamp."
+msgstr "Una farola dormida."
+
+#: STRINGS.CHARACTERS.WILBA.DESCRIBE.CITY_LAMP.GENERIC
+msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.CITY_LAMP.GENERIC"
+msgid "'TIS A LAMP"
+msgstr "UNA LÁMPARA"
+
+#: STRINGS.CHARACTERS.WILBA.DESCRIBE.CITY_LAMP.ON
+msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.CITY_LAMP.ON"
+msgid "'TIS ONLY ALIGHT AT NIGHT"
+msgstr "SOLO DA LUZ DE NOCHE"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.CITY_LAMP.GENERIC
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CITY_LAMP.GENERIC"
+msgid "Fire is so versatile."
+msgstr "El fuego es tan versátil."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.CITY_LAMP.ON
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CITY_LAMP.ON"
+msgid "They're kinda dull in the daytime."
+msgstr "Son un poco sosas de día."
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CITY_LAMP.GENERIC
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CITY_LAMP.GENERIC"
+msgid "Wolfgang does not like the dark."
+msgstr "A Wolfgang no le gusta la oscuridad."
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CITY_LAMP.ON
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CITY_LAMP.ON"
+msgid "Is lamp for night lights."
+msgstr "Ser lámpara para luces de noche."
+
+#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.CITY_LAMP.GENERIC
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CITY_LAMP.GENERIC"
+msgid "A little bit of safe haven."
+msgstr "Un poquito de refugio."
+
+#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.CITY_LAMP.ON
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CITY_LAMP.ON"
+msgid "Looks like a street lamp."
+msgstr "Parece una farola."
+
+#: STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CITY_LAMP.GENERIC
+msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CITY_LAMP.GENERIC"
+msgid "Sanctuary!"
+msgstr "¡Refugio!"
+
+#: STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CITY_LAMP.ON
+msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CITY_LAMP.ON"
+msgid "A landlamp."
+msgstr "Una lámpara de tierra."
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CITY_LAMP.GENERIC
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CITY_LAMP.GENERIC"
+msgid "Big light stick"
+msgstr "Palo de luz grande"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CITY_LAMP.ON
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CITY_LAMP.ON"
+msgid "No light"
+msgstr "Sin luz"
+
+#: STRINGS.CHARACTERS.WX78.DESCRIBE.CITY_LAMP.GENERIC
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CITY_LAMP.GENERIC"
+msgid "PRIMITIVE SOURCE OF ILLUMINATION"
+msgstr "UNA FUENTE DE ILUMINACIÓN PRIMITIVA"
+
+#: STRINGS.CHARACTERS.WX78.DESCRIBE.CITY_LAMP.ON
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CITY_LAMP.ON"
+msgid "NONFUNCTIONING"
+msgstr "NO FUNCIONA"
