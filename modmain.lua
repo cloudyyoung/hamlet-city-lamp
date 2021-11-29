@@ -3,7 +3,7 @@ local require = _G.require
 local assert = _G.assert
 local Ingredient = _G.Ingredient
 local RECIPETABS = _G.RECIPETABS
-local TECH = _G.RECIPETABS
+local TECH = _G.TECH
 
 Assets = {}
 
@@ -19,7 +19,7 @@ AddRecipe(
         Ingredient("lantern", 1)
     },
     RECIPETABS.LIGHT,
-    TECH.SCIENCE_TWO,
+    TECH.SCIENCE_THREE,
     "city_lamp_placer",
     nil,
     nil,
