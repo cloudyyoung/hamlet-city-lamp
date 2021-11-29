@@ -2,7 +2,7 @@
 name = "Hamlet Lamp Post"
 
 --A version number so you can ask people if they are running an old version of your mod.
-version = "0.0.1"
+version = "0.0.2"
 
 --A description of the mod.
 description = "Hamlet Lamp Post"
