@@ -1,11 +1,11 @@
 --The name of the mod displayed in the 'mods' screen.
-name = "Hamlet City Lamp"
+name = "Hamlet Lamp Post"
 
 --A version number so you can ask people if they are running an old version of your mod.
 version = "0.0.1"
 
 --A description of the mod.
-description = "Hamlet City Lamp"
+description = "Hamlet Lamp Post"
 
 --Who wrote this awesome mod?
 author = "Cloudy Young"
