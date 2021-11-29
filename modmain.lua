@@ -19,7 +19,7 @@ AddRecipe(
         Ingredient("lantern", 1)
     },
     RECIPETABS.LIGHT,
-    TECH.SCIENCE_THREE,
+    TECH.SCIENCE_TWO,
     "city_lamp_placer",
     nil,
     nil,
