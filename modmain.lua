@@ -35,11 +35,11 @@ local LANGUAGE = _G.LANGUAGE
 local localizations = 
 {
     {id = LANGUAGE.FRENCH,          alt_id = nil,                   strings = "french" },
-    {id = LANGUAGE.SPANISH,         alt_id = LANGUAGE.SPANISH_LA,   strings = "spanish" },
+    {id = LANGUAGE.SPANISH,         alt_id = LANGUAGE.SPANISH_LA,   strings = "spanish_mex" }, -- `strings` was spanish
     -- {id = LANGUAGE.SPANISH_LA,      alt_id = nil,                   strings = "spanish_mex" },
     {id = LANGUAGE.GERMAN,          alt_id = nil,                   strings = "german" },
     {id = LANGUAGE.ITALIAN,         alt_id = nil,                   strings = "italian" },  
-    {id = LANGUAGE.PORTUGUESE_BR,   alt_id = LANGUAGE.PORTUGUESE,   strings = "portuguese" },
+    {id = LANGUAGE.PORTUGUESE_BR,   alt_id = LANGUAGE.PORTUGUESE,   strings = "portuguese" }, -- `strings` was portuguese_br
     {id = LANGUAGE.POLISH,          alt_id = nil,                   strings = "polish" },
     {id = LANGUAGE.RUSSIAN,         alt_id = nil,                   strings = "russian" }, -- Russian strings are very long (often the longest), and the characters in the font are big. Bad combination.
     {id = LANGUAGE.KOREAN,          alt_id = nil,                   strings = "korean" },
